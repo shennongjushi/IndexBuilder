@@ -23,7 +23,7 @@ For example, database:demo, table: ad
 
 ### 3. Run WebCrawer to get ads data
 ```
-Download another repo "WebCrawler"
+Download another repo "WebCrawler"(https://github.com/shennongjushi/WebCrawler)
 Add some query to the Queue: queue_feeds (copy query from rawQuery3.txt)
 WebCrawer will send the ad data to the Queue: q_product
 ```
